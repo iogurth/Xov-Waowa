@@ -1,0 +1,13 @@
+El planeta pasó por varias fases evolutivas.
+
+# Primera Ola
+
+La primera fuente de vida de dio en la ahora conocida como **Subcorteza**, por los organismos basados en Silicio. Los llamados actualmente "antiguos" son la primera rama biológica independiente conocida, una fuente de vida naturalmente lenta y letárgica al igual que los primigenios, que conforme se formaron organismos más complejos y el planeta se estabilizó en su formación mas no en su gran influencia mágica y natural, lograron algunos evolucionar al punto de ser seres [[Bio-mágicos]], es decir, organismos que adquirieron naturalmente mediante la evolución capacidad de funcionar como un foco de magia salvaje vivo.
+
+# Segunda Ola
+
+La segunda ola se dio de forma abrupta. Cuando el planeta aún era joven, recientemente estabilizado y la vida en la corteza no era más que simples formas complejas aún que apenas salían de los océanos, de asentó una raza de seres inteligentes llamados [[Kinsirillis]]. Estos seres eran altamente avanzados tanto en tecnología como en uso de magia, nunca fueron una gran civilización en número pero pudieron serlo al ser una nave nodriza menor que "naufragó" en el espacio en la joven galaxia Tumqell *(TBD)*. Los Kinsirillis utilizaban artefactos de gran avance arcano, permitiendoles aprovechar naturalmente las grandes concentraciones mágicas naturales de [[Xov'Waowa]], con micro-paneles mágicos, extractores y condensadores mágicos. Los Kinsirillis se expandieron a lo largo de por lo menos una cuarta parte de los continentes, pues en ese momento los grandes bloques continentales aún no se habían fracturado del todo. Pero, a pesar de que existía esperanza de vida y desarrollo genético pues se calcula una tripulación de alrededor de 200 Kinsirillianos, la cual su desarrollo y supervivencia fue cortado de raíz por una inusual tormenta mágico-gravitacional proveniente de [[El Gran Anillo de Plasma]], que no solo fragmentó aún más el planeta y su terreno, sino que colapsó todos los artefactos del intento de civilización Kinsirilli y su alta dependencia a ellos, terminando por ser erradicados de forma natural en el planeta. Aún no se sabe demasiado de ellos, muchos de los descubrimientos arqueológicos se han debido netamente a irregularidades en el campo mágico de la zona y la gran mayoría de los artefactos están inutilizables, se dejan únicamente para su estudio o son peligrosamente inestables.
+Esta gran tormenta que erradicó a los [[Kinsirillis]] provocó una inestabilidad constante en la tecnología de la actualidad, forzando a la ingeniería a avanzar con tecnologías más analógicas y con fuerte base mágica de alta complejidad para soportar la inestabilidad mágica que provocó [[El Gran Anillo de Plasma]]. 
+
+# Tercera Ola
+

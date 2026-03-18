@@ -1,0 +1,217 @@
+{
+  "main": {
+    "id": "4d9fb4f20ff8298c",
+    "type": "split",
+    "children": [
+      {
+        "id": "1ce07543115bb21f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "749a540a6c9ed198",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Vida.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Vida"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "420c4cee01095237",
+    "type": "split",
+    "children": [
+      {
+        "id": "25c858bcfde91fb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "57cf7d68b8dc057d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Explorador de archivos"
+            }
+          },
+          {
+            "id": "d2f04160759abd78",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Buscar"
+            }
+          },
+          {
+            "id": "814e863d40e24da4",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Marcadores"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 202.50384521484375
+  },
+  "right": {
+    "id": "5eb73907a55fea43",
+    "type": "split",
+    "children": [
+      {
+        "id": "27aa5a9190997d21",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "70859891c0ef39a7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "0. Orden y sentido.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Enlaces entrantes de 0. Orden y sentido"
+            }
+          },
+          {
+            "id": "64df555872a6e459",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "0. Orden y sentido.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Enlaces salientes de 0. Orden y sentido"
+            }
+          },
+          {
+            "id": "ed7971bee97c0083",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Etiquetas"
+            }
+          },
+          {
+            "id": "fd91b92be103660a",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "Todas las propiedades"
+            }
+          },
+          {
+            "id": "2da4736a78d9d3f8",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "0. Orden y sentido.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Esquema de 0. Orden y sentido"
+            }
+          },
+          {
+            "id": "250cb4a3ef03eb64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "El Gran Anillo de Plasma.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "El Gran Anillo de Plasma"
+            }
+          }
+        ],
+        "currentTab": 4
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "graph:Abrir vista gráfica": false,
+      "switcher:Abrir selector rápido": false,
+      "canvas:Crear nuevo lienzo": false,
+      "daily-notes:Abrir la nota de hoy": false,
+      "templates:Insertar plantilla": false,
+      "command-palette:Abrir paleta de comandos": false,
+      "bases:Crear nueva base": false
+    }
+  },
+  "active": "749a540a6c9ed198",
+  "lastOpenFiles": [
+    "Xov'Waowa.md",
+    "README.md",
+    "Vida.md",
+    "Fvik.md",
+    "El Gran Anillo de Plasma.md",
+    "Lvavvor'Kazz (TBD).md",
+    "Biomas.md",
+    "Clima.md",
+    "Primigenio.md",
+    "Atmósfera.md",
+    "Primigenios.md",
+    "0. Orden y sentido.md",
+    "cree un enlace.md"
+  ]
+}

@@ -1,0 +1,6 @@
+Agujero negro que funciona como sol en el cual orbitan diversos planetas, siendo el segundo de ellos [[Xov'Waowa]]. En realidad por su tamaño y masa, permite órbitas relativamente seguras a cierta distancia, partiendo desde el primer planeta, [[Fvik]] *(TBD)*. 
+El disco de acreción del agujero negro permite emitir luz suficiente por su velocidad y temperatura para que exista un equilibrio de vida perfecto en [[Xov'Waowa]]. Visualmente, es una dualidad de tonos del color por el efecto Doppler, una mitad en tonos fríos y azules y la otra en tonos cálidos y rojos. 
+
+# Inicio y creación
+
+En los inicios de la formación de la galaxia Tumqell (TBD), una gran parte del tamaño, gas y materia fue consumida por un ser que escapaba del entendimiento mortal. El ser sin nombre, que posteriormente por astrónomos y científicos sería bautizado como [[Lvavvor'Kazz (TBD)]], el [[Primigenio]], se asentaría finalmente, por naturaleza, en un estado de semi-letargo, pero aún alterando su entorno, que terminaría en el agujero negro Behkire (TBD), también conocido popularmente como **El Gran Anillo de Plasma**.
