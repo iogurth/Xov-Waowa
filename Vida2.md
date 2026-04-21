@@ -1,0 +1,9 @@
+# Periodo Silicótico
+## Eón Tartárico (TBD, usaré Tártaro equivalente en Xov'Waowa)
+**Subcorteza** primitiva, muy inestable a nivel telúrico y en temperatura, aún asentando las bases para una posible futura vida.
+## Eón Primáico (TBD, referencia a "Arcaico" pero desde el pov primigenio, a definir su idioma aún)
+La primera vida, la más simple basada en Silicio. Seres simples, rocosos, sin capacidad de comunicación entre sí sobreviviendo a la aún ligeramente remecida Subcorteza, aprovechando la radiación primigenia de **Oss'Dkillu** como fuente principal de energía, conjuntamente con la misma energía geotérmica.
+## Eón Prometeico (TBD, de Prometeo, pero hay que definir su equivalente en una cultura del mundo)
+La primera vida compleja que da esperanza a un periodo evolutivo real. Los primeros seres rocosos, piedras vivas que se desplazan lentamente mediante vibraciones y los primeros seres neutrales colmenares como micelio de menores escalas, de los cuales se cree que se comunicaban entre sí mediante señales lumínico-eléctricas.
+## Eón Ewingáico (TBD, referencia a la ewingita por su complejidad, pronto transferir a equivalencia en minerales del mundo)
+Periodo del auge de la vida en Silicio, organismos de diversos tipos. Organismos más similares a "copos de minerales" flotantes y ligeros gracias a su electricidad y magnetismo, otros más como caracoles de lava viscosa y minerales, otros más neutrales e inactivos como un micelio de mineral de comunicación colmenar de grandes escalas, otros micelios más activos y agresivos que endurecen y absorben lentamente a quienes atrae mediante señales eléctricas confusas e incluso depredadores entre ellos como criaturas de grandes tamaños, movimientos rápidos pero reacción lenta que digiere a sus presas lentamente en condiciones extremas de presión y temperatura interior, similar a una almeja mineral.

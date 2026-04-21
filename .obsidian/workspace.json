@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vida.md",
+                "file": "Vida2.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vida"
+              "title": "Vida2"
             }
           }
         ]
@@ -178,14 +178,23 @@
               "icon": "lucide-file",
               "title": "El Gran Anillo de Plasma"
             }
+          },
+          {
+            "id": "2aa1d598c5df7ec6",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,16 +204,18 @@
       "daily-notes:Abrir la nota de hoy": false,
       "templates:Insertar plantilla": false,
       "command-palette:Abrir paleta de comandos": false,
-      "bases:Crear nueva base": false
+      "bases:Crear nueva base": false,
+      "obsidian-git:Open Git source control": false
     }
   },
   "active": "749a540a6c9ed198",
   "lastOpenFiles": [
     "Xov'Waowa.md",
-    "README.md",
+    "Vida2.md",
     "Vida.md",
-    "Fvik.md",
     "El Gran Anillo de Plasma.md",
+    "README.md",
+    "Fvik.md",
     "Lvavvor'Kazz (TBD).md",
     "Biomas.md",
     "Clima.md",
