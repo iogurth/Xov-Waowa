@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Vida2.md",
+                "file": "Vida.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Vida2"
+              "title": "Vida"
             }
           }
         ],
@@ -171,13 +171,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Vida2.md",
+                "file": "Vida.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Esquema de Vida2"
+              "title": "Esquema de Vida"
             }
           },
           {
@@ -211,9 +211,9 @@
   },
   "active": "c203a042e424ca78",
   "lastOpenFiles": [
-    "Xov'Waowa.md",
-    "Vida2.md",
     "Vida.md",
+    "Vida.md",
+    "Xov'Waowa.md",
     "El Gran Anillo de Plasma.md",
     "README.md",
     "Fvik.md",
