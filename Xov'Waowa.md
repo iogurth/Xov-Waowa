@@ -15,7 +15,7 @@ Esta distribución de capas trae consigo grandes variedades de desastres natural
 
 # División Xowéste
 
-[[Xov'Waowa]] se divide en 5 [[Capas Internas]] por su gran tamaño. En primer lugar, desde el interior, el **Núcleo**, dividido en su parte sólida conocida como **Núcleo Interno** y en su parte líquida conocida como **Núcleo Externo**; el **Manto** siendo la capa más gruesa, compuesta de metales sólidos y líquidos viscosos; la **Corteza** que se subdivide en dos partes: La **Subcorteza**, la capa de alta temperatura pero aún estable y la **Exocorteza Xowéste**, la capa de temperatura templada y en contacto directo con la Tropósfera.
+[[Xov'Waowa]] se divide en 5 Capas Internas por su gran tamaño. En primer lugar, desde el interior, el **Núcleo**, dividido en su parte sólida conocida como **Núcleo Interno** y en su parte líquida conocida como **Núcleo Externo**; el **Manto** siendo la capa más gruesa, compuesta de metales sólidos y líquidos viscosos; la **Corteza** que se subdivide en dos partes: La **Subcorteza**, la capa de alta temperatura pero aún estable y la **Exocorteza Xowéste**, la capa de temperatura templada y en contacto directo con la Tropósfera.
 
 # Geografía
 
