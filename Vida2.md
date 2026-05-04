@@ -20,13 +20,13 @@ Periodo de vida visible, seres mucho más complejos, de instintos superiores, de
 
 # Periodo Etánico
 ## Eón Eólico (TBD, Eolo guardián de los vientos)
-**Etanósfera** primitiva, aún estabilizando sus temperaturas y tormentas para asentar vida.
+**Etanósfera** primitiva, aún estabilizando sus temperaturas, tormentas y división atmosférica clara para asentar vida.
 ## Eón Hykkitivo (TBD, Ehē'Hykk y primitivo)
-Las primeras formas de vida simple surgieron en este eón, criaturas flotantes de comunicación simple, transparentes como plancton o pequeñas gelatinas vivas. 
+Las primeras formas de vida simple surgieron en este eón, criaturas flotantes de comunicación simple, transparentes como plancton y ligeras, casi transparentes, flotantes e interactuando únicamente gracias a los vientos condensados de la capa.
 ## Eón Protoaerozóico (TBD, vida aérea temprana)
-Formación de la vida compleja. Seres que lograban seguir instintos complejos, depredadores primitivos, medusas pasivas y flora semi-flotante como nenúfares de etano o marimos flotantes.
+Formación de la vida compleja. Los seres vivos ahora no eran simples amebas semi-transparentes que interactuaban solo gracias al viento, sino que comenzaron por primera vez a evolucionar para lograr los primeros mecanismos primitivos de movimiento, aprovechando la temperatura de ciertas longitudes de onda de **El Gran Anillo de Plasma**, permitiéndoles propulsarse ligeramente y flotar en direcciones a sus gustos y necesidades (como un globo aerostático o el camarón pistola en menor grado). La flora también evolucionó para aprovechar la energía del disco de acreción, formando vida oscura a contraste de la gélida capa, marcando una clara rutina estacional, con otoños donde pierden masa para mantenerse a flotes y viva o inviernos donde florecen con más fuerza.
 ## Eón Ehēzóico (TBD, quizá se quede, bastante claro)
-La cúspide evolutiva (no mágica) del etano. Depredadores alfas con venenos fríos y de capacidad de predicción evolucionada. Flora que responde ante estímulos externos como droseras flotantes. Medusas que se alimentan del frío o plantas muertas como semicarroñeros. Clima estable y frío, con tormentas que de vez en cuando, suben especies de la Cortéza Xowéste o bajan de la Etanósfera.
+La cúspide evolutiva (no mágica) del etano. Los grandes depredadores alfas comprenden mejor que cualquier otro depredador de otras capas su entorno, con una capacidad de lectura y predicción de los vientos superlativa, calculando y preparando sus tentáculos o arpones para depredar sin afectar su energía ni metabolismo lento de su naturaleza. Algunos evolucionan para el uso de venenos cálidos y hacer estallar a su presas, mejoras del uso de burbujas gélidas de alta presión interna como disparos e incluso, gracias a sus propias transparencias, métodos de confusión y mimesis con el entorno. Flora que responde ante estímulos externos como droseras flotantes. Medusas que se alimentan del frío o plantas muertas como semi-carroñeros. Clima estable y frío, con tormentas que de vez en cuando, suben especies de la Cortéza Xowéste y son congeladas casi al instante, sirviendo de alimento o como un poderoso proyectil natural al caer nuevamente a la tierra firme, u otras que bajan de la Etanósfera simplemente para soltar una gan nube de etano al entrar en contacto con la estable temperatura de la corteza.
 
 # Periodo Kinsirílico
 
