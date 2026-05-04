@@ -19,7 +19,14 @@ Complejización de la atmósfera. Primeros seres pluricelulares y de células co
 Periodo de vida visible, seres mucho más complejos, de instintos superiores, depredadores de gran capacidad mecánica e inteligencia biológica, fuertemente adaptados a los diversos y hostiles biomas. Organismos profundamente adaptados a Xov'Waowa de este Eón, no tan grandes de altura, más bien robustos, herbívoros adaptados a combatir con depredadores y ápices de gran instinto estratégico y recompensa al actuar frente a ellos (como arrojarlos a acantilados, ácidos o pistones). Desde la flora, plantas similares a Punica granatum (frutos acorazados) o Euphorbia rigida.
 
 # Periodo Etánico
-
+## Eón Eólico (TBD, Eolo guardián de los vientos)
+**Etanósfera** primitiva, aún estabilizando sus temperaturas y tormentas para asentar vida.
+## Eón Hykkitivo (TBD, Ehē'Hykk y primitivo)
+Las primeras formas de vida simple surgieron en este eón, criaturas flotantes de comunicación simple, transparentes como plancton o pequeñas gelatinas vivas. 
+## Eón Protoaerozóico (TBD, vida aérea temprana)
+Formación de la vida compleja. Seres que lograban seguir instintos complejos, depredadores primitivos, medusas pasivas y flora semi-flotante como nenúfares de etano o marimos flotantes.
+## Eón Ehēzóico (TBD, quizá se quede, bastante claro)
+La cúspide evolutiva (no mágica) del etano. Depredadores alfas con venenos fríos y de capacidad de predicción evolucionada. Flora que responde ante estímulos externos como droseras flotantes. Medusas que se alimentan del frío o plantas muertas como semicarroñeros. Clima estable y frío, con tormentas que de vez en cuando, suben especies de la Cortéza Xowéste o bajan de la Etanósfera.
 
 # Periodo Kinsirílico
 
