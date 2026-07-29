@@ -28,5 +28,5 @@ Formación de la vida compleja. Los seres vivos ahora no eran simples amebas sem
 ## Eón Ehēzóico (TBD, quizá se quede, bastante claro)
 La cúspide evolutiva (no mágica) del etano. Los grandes depredadores alfas comprenden mejor que cualquier otro depredador de otras capas su entorno, con una capacidad de lectura y predicción de los vientos superlativa, calculando y preparando sus tentáculos o arpones para depredar sin afectar su energía ni metabolismo lento de su naturaleza. Algunos evolucionan para el uso de venenos cálidos y hacer estallar a su presas, mejoras del uso de burbujas gélidas de alta presión interna como disparos e incluso, gracias a sus propias transparencias, métodos de confusión y mimesis con el entorno. Flora que responde ante estímulos externos como droseras flotantes. Medusas que se alimentan del frío o plantas muertas como semi-carroñeros. Clima estable y frío, con tormentas que de vez en cuando, suben especies de la Cortéza Xowéste y son congeladas casi al instante, sirviendo de alimento o como un poderoso proyectil natural al caer nuevamente a la tierra firme, u otras que bajan de la Etanósfera simplemente para soltar una gan nube de etano al entrar en contacto con la estable temperatura de la corteza.
 
-# Periodo Kinsirílico
+
 
